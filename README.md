@@ -47,7 +47,7 @@ This repository contains the Python programming tasks completed during my intern
 
 **Organization:** CodeAlpha  
 **Role:** Python Programming Intern  
-**Duration:** March 2026 – April 2026
+**Duration:** March 2026 – April 2026.
 
 ## Repository Purpose
 
